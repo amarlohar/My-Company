@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Assignment1"/>
+	<classpathentry kind="src" path="Assignment2"/>
+	<classpathentry kind="src" path="Assignment3"/>
+	<classpathentry kind="src" path="Assignment4"/>
+	<classpathentry kind="src" path="Assignment5"/>
+	<classpathentry kind="src" path="Assignment6"/>
+	<classpathentry kind="src" path="Assignment7"/>
+	<classpathentry kind="src" path="Assignment8"/>
+	<classpathentry kind="src" path="Assignment9"/>
+	<classpathentry kind="src" path="Assignment10"/>
+	<classpathentry kind="src" path="Assignment11"/>
+	<classpathentry kind="src" path="Assignment12"/>
+	<classpathentry kind="src" path="Assignment13"/>
+	<classpathentry kind="src" path="Assignment14"/>
+	<classpathentry kind="src" path="Assignment15"/>
+	<classpathentry kind="src" path="Assignment16"/>
+	<classpathentry kind="src" path="Assignment17"/>
+	<classpathentry kind="src" path="Assignment18"/>
+	<classpathentry kind="src" path="Assignment19"/>
+	<classpathentry kind="src" path="Assignment20"/>
+	<classpathentry kind="src" path="Assignment21"/>
+	<classpathentry kind="src" path="Assignment22"/>
+	<classpathentry kind="src" path="Assignment23"/>
+	<classpathentry kind="src" path="Assignment24"/>
+	<classpathentry kind="src" path="Assignment25"/>
+	<classpathentry kind="src" path="Assignment26"/>
+	<classpathentry kind="src" path="Assignment27"/>
+	<classpathentry kind="src" path="Assignment28"/>
+	<classpathentry kind="src" path="Assignment29"/>
+	<classpathentry kind="src" path="Assignment30"/>
+	<classpathentry kind="src" path="Assignment31"/>
+	<classpathentry kind="src" path="Assignment32"/>
+	<classpathentry kind="src" path="Assignment33"/>
+	<classpathentry kind="src" path="Assignment34"/>
+	<classpathentry kind="src" path="Assignment35"/>
+	<classpathentry kind="src" path="Assignment36"/>
+	<classpathentry kind="src" path="Assignment37"/>
+	<classpathentry kind="src" path="Assignment38"/>
+	<classpathentry kind="src" path="Assignment39"/>
+	<classpathentry kind="src" path="Assignment40"/>
+	<classpathentry kind="src" path="Assignment41"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
