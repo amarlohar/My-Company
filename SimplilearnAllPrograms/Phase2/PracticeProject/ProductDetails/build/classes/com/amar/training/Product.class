@@ -1,10 +1,0 @@
-Êþº¾   < *  com/amar/training/Product  java/lang/Object id I pname Ljava/lang/String; ptype pprice <init> ()V Code
-     LineNumberTable LocalVariableTable this  Lcom/amar/training/Product; getId ()I	     setId (I)V getPname ()Ljava/lang/String;	     setPname (Ljava/lang/String;)V getPtype	  " 	  setPtype 	getPprice	  & 
-  	setPprice 
-SourceFile Product.java !                 	     
-    	        /     *· ±           	                    /     *´ ¬                               >     *µ ±       
-                                /     *´ °                               >     *+µ ±       
-                                 /     *´ !°                         #      >     *+µ !±       
-       !                	    $      /     *´ %¬           $              '      >     *µ %±       
-    (  )                
-    (    )
