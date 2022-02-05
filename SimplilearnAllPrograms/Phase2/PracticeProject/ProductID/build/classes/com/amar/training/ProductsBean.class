@@ -1,0 +1,9 @@
+Êþº¾   < +  #com/amar/training/ProductsBean  java/lang/Object Pid I Pname Ljava/lang/String; Price Ljava/lang/Double; <init> ()V Code
+     LineNumberTable LocalVariableTable this %Lcom/amar/training/ProductsBean; getPid ()I	     setPid (I)V pid getPname ()Ljava/lang/String;	     setPname (Ljava/lang/String;)V pname getPrice ()Ljava/lang/Double;	  % 	 
+ setPrice (Ljava/lang/Double;)V price 
+SourceFile ProductsBean.java !                    	 
+           /     *· ±                               /     *´ ¬                               >     *µ ±       
+                                /     *´ °                                >     *+µ ±       
+                      !    " #     /     *´ $°                         & '     >     *+µ $±       
+                      ( 
+   )    *
